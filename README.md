@@ -109,7 +109,7 @@ Watch the full demo showcasing artifact registration, access management, and exp
 ### On-Chain Transactions
 View verified transactions on blockchain explorers:
 
-![Transaction Screenshot](Demo Video.mp4.png)
+![Transaction Screenshot](Transaction Screenshot.png)
 
 ## 🏛️ Use Cases
 
