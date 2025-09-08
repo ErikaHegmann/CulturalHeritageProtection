@@ -104,12 +104,12 @@ Experience the application: [https://cultural-heritage-protection.vercel.app/](h
 ### Video Demonstration
 Watch the full demo showcasing artifact registration, access management, and expert verification:
 
-![Demo Video](Demo Video.mp4)
+![Demo Video](CulturalHeritageProtection.mp4)
 
 ### On-Chain Transactions
 View verified transactions on blockchain explorers:
 
-![Transaction Screenshot](Transaction Screenshot.png)
+![Transaction Screenshot](CulturalHeritageProtection.png)
 
 ## 🏛️ Use Cases
 
